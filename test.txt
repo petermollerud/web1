@@ -5,6 +5,3 @@ Added by PR
 Blabla
 
 Foo
-
-
-Added by PR-test2
