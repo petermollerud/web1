@@ -5,3 +5,5 @@ Added by PR
 Blabla
 
 Foo
+
+Bar
